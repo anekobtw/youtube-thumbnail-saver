@@ -51,6 +51,6 @@ YouTube Thumbnail Saver v{VERSION}.
             quit()
 
     if input('Do you want to download another thumbnail? (Y/n) ').lower() not in ['yes', 'y']:
-        break
+        break   
 
     os.system('cls')
