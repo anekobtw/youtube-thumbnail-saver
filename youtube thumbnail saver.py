@@ -29,7 +29,7 @@ while True:
     print(f"""
 --------------------------------
 YouTube Thumbnail Saver v{VERSION}.
-© Aneko, 2023
+© anekobtw, 2023
 --------------------------------
 """)
 
