@@ -5,12 +5,10 @@
 
 YouTube Thumbnail Saver is a Python script designed to help users easily save thumbnails of YouTube videos or entire playlists. With this tool, you can quickly download thumbnails for your favorite videos for various purposes such as creating thumbnails for your own videos or for personal reference.
 
-
 ## Features
 **Save Single Thumbnail:** Download the thumbnail of a single YouTube video by providing its link.\
 **Save Playlist Thumbnails:** Download thumbnails for all videos in a YouTube playlist.\
 **Simple CLI:** Easy-to-use command-line interface for quick thumbnail downloads.
-
 
 ## Installation
 To use YouTube Thumbnail Saver, follow these steps:
@@ -19,7 +17,6 @@ To use YouTube Thumbnail Saver, follow these steps:
 2. Make sure you have Python installed on your system
 3. Install the required dependencies by running `pip install -r requirements.txt`
 4. Run the script by executing `python yts.py`
-
 
 ## Usage
 Once the script is running, follow the prompts to choose the type of download you want
@@ -47,9 +44,9 @@ Saved as $456,000 Squid Game In Real Life!.png
 Do you want to download another one? (y/n) n
 ```
 
+
 ## Contributing
 Contributions are always welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue on the [GitHub repository](https://github.com/anekobtw/youtube-thumbnail-saver).
-
 
 ## Licence
 Copyright © 2024 anekobtw.\
