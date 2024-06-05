@@ -1,5 +1,5 @@
 # YouTube Thumbnail Saver
-![version](https://img.shields.io/badge/Project_version-v1.1.4-blue)
+![version](https://img.shields.io/badge/Project_version-v2.0.0-blue)
 ![licence](https://img.shields.io/badge/License-MIT-green)
 ![made with love](https://img.shields.io/badge/Made_with-Love-red)
 
